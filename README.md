@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SurendraKumawat7742
+- 👋 Hi, I’m Surendra Kumawat
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning web development.
 -    B-tech in computer science and engineering.
