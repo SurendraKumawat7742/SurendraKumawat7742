@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Surendra Kumawat
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning web development.
--    B-tech in computer science and engineering.
+- 🌱 I’m learning web development.
+-    BE in computer science.
 
 <!---
 SurendraKumawat7742/SurendraKumawat7742 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
